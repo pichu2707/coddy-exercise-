@@ -5,4 +5,4 @@ let firstColor = colors.unshift("purple");
 let lastColor = colors.pop();
 console.log(colors);
 console.log(removedColor);
-console.log(lastColor);
+console.log(lastColor); 

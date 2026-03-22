@@ -1,0 +1,4 @@
+let arr = ["Bob", "Josh", "Alexander", "Rachel", "Jax"];
+for (let i = 0; i < arr.length; i++) {
+  console.log(arr[i]);
+}
